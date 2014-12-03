@@ -129,5 +129,9 @@
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
+    <Build Include="dbo\Tables\Personas.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="24HOPES-GIT.refactorlog" />
   </ItemGroup>
 </Project>
